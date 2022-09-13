@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/C-5a93bf?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-87b3d4?style=for-the-badge&logo=c++&logoColor=white)
 #
-*More details soon...*
+*More details soon...*<br><br>
+![](https://komarev.com/ghpvc/?username=itsdebartha&label=VIEWS)
