@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 ![Julia](https://img.shields.io/badge/Julia-6f3da1?style=for-the-badge&logo=julia&logoColor=white)
 ![C](https://img.shields.io/badge/C-5a93bf?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-87b3d4?style=for-the-badge&logo=c++&logoColor=white)
-#
+### Some of my projects:
+![Julia](https://img.shields.io/badge/Julia-6f3da1?style=for-the-badge&logo=julia&logoColor=white)<br>
+[Continuity and Differentiability](https://github.com/itsdebartha/Continuity-and-Differentiability):  A repository for checking the continuity or differentiability of a mathematical function
+
 *More details soon...*<br><br>
 ![](https://komarev.com/ghpvc/?username=itsdebartha&label=VIEWS)
