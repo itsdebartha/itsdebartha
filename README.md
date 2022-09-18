@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 #
 ## :sunglasses: About Me
-:smiley:  I am **Debartha Paul**. I am an upcoming student of **MSc** with specialization in **Statistics**. I completed my **Bachelors** in the same discipline from **Presidency University, Kolkata**<br>
+:smiley:  I am **Debartha Paul**. I am currently student of **MSc** with specialization in **Statistics** in **Presidency University, Kolkata**. I completed my **Bachelors** in the same discipline from the same institution.<br>
 :soccer:  Aside from my academic life, I *love to play football*, *read story books* and *spend time with my family*. I also *love to eat and try out new dishes* (don't get me wrong, I **can't** cook, yet:sweat_smile:).<br>
 :computer:  I also love to code. I am currently learning **Julia** and am loving it. I am familiar with:<br>
 ![R](https://img.shields.io/badge/R-276ba3?style=for-the-badge&logo=r&logoColor=white)
@@ -30,6 +30,15 @@ Here are some ideas to get you started:
 <br>
 ![Python](https://img.shields.io/badge/Python-dbd24f?style=for-the-badge&logo=python&logoColor=white)<br>
 [Temperature Converter](https://github.com/itsdebartha/Temperature-Converter): A repository for converting temperatures to different units<br>
+<br>
+### My workspace setup:
+I mostly use my laptop for all the tasks. The specs are:<br>
+![Laptop](https://img.shields.io/badge/Inspiron%2015%203501-black?style=for-the-badge&logo=dell)
+![Processor](https://img.shields.io/badge/CORE%20i5%201135g7-276ba3?style=for-the-badge&logo=intel)
+![RAM](https://img.shields.io/badge/8gb%20ddr4%20SODIMM-806a47?style=for-the-badge)
+![Graphics Card](https://img.shields.io/badge/MX330-398514?style=for-the-badge&logo=nvidia)
+![SSD](https://img.shields.io/badge/256GB%20SSD-blue?style=for-the-badge)
+![HDD](https://img.shields.io/badge/1TB%20HDD-blue?style=for-the-badge&logo=westerndigital)
 
 *More details soon...*<br><br>
 ![](https://komarev.com/ghpvc/?username=itsdebartha&label=VIEWS)
