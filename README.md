@@ -26,7 +26,10 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/C++-87b3d4?style=for-the-badge&logo=c++&logoColor=white)
 ### Some of my projects:
 ![Julia](https://img.shields.io/badge/Julia-6f3da1?style=for-the-badge&logo=julia&logoColor=white)<br>
-[Continuity and Differentiability](https://github.com/itsdebartha/Continuity-and-Differentiability):  A repository for checking the continuity or differentiability of a mathematical function
+[Continuity and Differentiability](https://github.com/itsdebartha/Continuity-and-Differentiability):  A repository for checking the continuity or differentiability of a mathematical function<br>
+<br>
+![Python](https://img.shields.io/badge/Python-dbd24f?style=for-the-badge&logo=python&logoColor=white)<br>
+[Temperature Converter](https://github.com/itsdebartha/Temperature-Converter): A repository for converting temperatures to different units<br>
 
 *More details soon...*<br><br>
 ![](https://komarev.com/ghpvc/?username=itsdebartha&label=VIEWS)
