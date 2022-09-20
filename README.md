@@ -42,7 +42,7 @@ I mostly use my laptop for all the tasks. The specs are:<br>
 ![HDD](https://img.shields.io/badge/1TB%20HDD-blue?style=for-the-badge&logo=westerndigital)
 <br>
 However, I sometimes use my Desktop which has:<br>
-![OS](https://img.shields.io/badge/Windows%2011-c1e1e6?style=for-the-badge&logo=windows&logoColor=blue)
+![OS](https://img.shields.io/badge/Windows%208.1-c1e1e6?style=for-the-badge&logo=windows&logoColor=blue)
 ![Processor](https://img.shields.io/badge/core%20i3%204150U-276ba3?style=for-the-badge&logo=intel)
 ![RAM](https://img.shields.io/badge/8gb-806a47?style=for-the-badge&logo=corsair)
 ![HDD](https://img.shields.io/badge/1TB%20HDD-blue?style=for-the-badge&logo=westerndigital)
