@@ -48,4 +48,3 @@ However, I sometimes use my Desktop which has:<br>
 ![HDD](https://img.shields.io/badge/1TB%20HDD-blue?style=for-the-badge&logo=westerndigital)
 
 *More details soon...*<br><br>
-![](https://komarev.com/ghpvc/?username=itsdebartha&label=VIEWS)
