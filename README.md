@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/C-5a93bf?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-87b3d4?style=for-the-badge&logo=c++&logoColor=white)
 ### Some of my projects:
+![R](https://img.shields.io/badge/R-276ba3?style=for-the-badge&logo=r&logoColor=white)<br>
+[Simulations of some Dice](https://github.com/itsdebartha/Dice-Simulations): A short project on some problems on dice and their solution through the use of simulations using R. Ahel has collaborated with me on this.
 ![Julia](https://img.shields.io/badge/Julia-6f3da1?style=for-the-badge&logo=julia&logoColor=white)<br>
 [Continuity and Differentiability](https://github.com/itsdebartha/Continuity-and-Differentiability):  A repository for checking the continuity or differentiability of a mathematical function<br>
 <br>
