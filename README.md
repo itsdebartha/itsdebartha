@@ -36,3 +36,5 @@ Here are some ideas to get you started:
 <br>
 
 *More details soon...*<br><br>
+
+[![Debartha's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsdebartha&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
