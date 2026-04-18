@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 :smiley:  I am **Debartha Paul**. I am currently a PhD student in Statistics at **Iowa State University, Ames**.
 <!-- of **MSc** with specialization in **Statistics** in **Presidency University, Kolkata**. I completed my
 **Bachelors** in the same discipline from the same institution.<br> -->
-:soccer:  Aside from my academic life, I *love to play football*, *read story books* and *spend time with my family*. I also *love to eat and try out new dishes* (I **can** cook, as of now:sweat_smile:).<br>
+:soccer:  Aside from my academic life, I *love to play football*, *read story books* and *spend time with my family*. I also *love to eat and try out new dishes* (I **can** cook, as of now :sweat_smile:).<br>
 :computer:  I also love to code. I am currently learning **Julia** and am loving it. I am familiar with:<br>
 ![R](https://img.shields.io/badge/R-276ba3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-dbd24f?style=for-the-badge&logo=python&logoColor=white)
